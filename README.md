@@ -36,7 +36,7 @@ Install the latest versions of the following applications:
 
   > *Note*: Using Git, you can download the app within Visual Studio Code.
 
-## Create an account
+## Create an Azure account
 
 Register for the accounts:
 
@@ -44,3 +44,11 @@ Register for the accounts:
   > *Note*: You should be able to access the Azure portal and be able to create resources. Contact your administrator if needed.
   
   > *Note*: Although this is a guided workshop, some basic knowledge about Azure would be welcome. Please contact the organizers if you need help to get started.
+
+## Network
+
+We will connect laptops to the internet using HTTPS and MQTTS over the (WIFI) network. 
+
+Restricted networks can interrupt the communication so it's recommended to have a less restrictive network during the workshop. 
+
+An alternative is using a private hotspot / tethering.
