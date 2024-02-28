@@ -49,6 +49,6 @@ Register for the accounts:
 
 We will connect laptops to the internet using HTTPS and MQTTS over the (WIFI) network. 
 
-Restricted networks can interrupt the communication so it's recommended to have a less restrictive network during the workshop. 
+Restricted networks (eg. using Zscaler) can interrupt the communication so it's recommended to have a less restrictive network during the workshop. 
 
 An alternative is using a private hotspot / tethering.
