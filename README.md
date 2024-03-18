@@ -1,6 +1,6 @@
 # Prerequisites of the Experience-the-basics-of-Azure-IoT workshop
 
-Welcome to the Experience the basics of Azure IoT workshop
+Welcome to the Experience the Basics of Azure IoT workshop
 
 # Prerequisites
 
@@ -28,9 +28,9 @@ Install the latest versions of the following applications:
 
       node --version
 
-- <a href="https://github.com/Azure/azure-iot-explorer/releases?WT.mc_id=IoT-MVP-5002324" target="_blank">Azure IoT Explorer</a>
+- <a href="https://github.com/Azure/azure-iot-explorer/releases?WT.mc_id=IoT-MVP-5002324" target="_blank">Azure IoT Explorer (Preview)</a>
 
-  > *Note*: As an alternative, the <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit&WT.mc_id=IoT-MVP-5002324" target="_blank">Visual Studio Code extension for IoT Hub</a> can be used (out of scope for this tutorial)
+  > *Note*: This tool is used for checking out the device-to-cloud and cloud-to-device communication. As an alternative, the <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit&WT.mc_id=IoT-MVP-5002324" target="_blank">Visual Studio Code extension for IoT Hub</a> can be used (out of scope for this tutorial)
 
 - <a href="https://git-scm.com/downloads" target="_blank">Git</a>
 
@@ -41,9 +41,9 @@ Install the latest versions of the following applications:
 Register for the accounts:
 
 - <a href="https://azure.microsoft.com/en-us/free/" target="_blank">Microsoft account</a>
-  > *Note*: You should be able to access the Azure portal and be able to create resources. Contact your administrator if needed.
+  > *Note*: You should be able to access the Azure portal and create resources. Please, contact your administrator if needed.
   
-  > *Note*: Although this is a guided workshop, some basic knowledge about Azure would be welcome. Please contact the organizers if you need help to get started.
+  > *Note*: Although this is a guided workshop, some basic knowledge about Azure would be welcome. Please, contact the organizers if you need help to get started.
 
 ## Network
 
@@ -51,4 +51,4 @@ We will connect laptops to the internet using HTTPS and MQTTS over the (WIFI) ne
 
 Restricted networks (eg. using Zscaler) can interrupt the communication so it's recommended to have a less restrictive network during the workshop. 
 
-An alternative is using a private hotspot / tethering.
+An alternative is using a private hotspot/tethering.
